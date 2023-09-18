@@ -28,7 +28,7 @@
 - 11장. 애플리케이션 배포를 위한 고급 설정
 - [12장. 커스텀 리소스와 컨트롤러](./contents/chapter12.md)
 - [13장. 포드를 사용하는 다른 오브젝트들](./contents/chapter13.md)
-- 14장. 쿠버네티스 모니터링
+- [14장. 쿠버네티스 모니터링](./contents/chapter14.md)
 
 ## 같이 공부할 자료
 - [Udemy - Certified Kubernetes Administrator (CKA) with Practice Tests](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/)
